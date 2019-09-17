@@ -3,6 +3,7 @@ body{
 }
 #header{
   color:yellow;
+  text-align:center;
 }
 h2{
   color:white;
@@ -14,5 +15,13 @@ h1{
   color:white;
 }
 #game{
-  color:lightyellow;
+  text-align:center;
+} 
+img{
+  width:350px;
+  height:200px;
+}
+ul{
+  color:white;
+  background-color:;
 }
