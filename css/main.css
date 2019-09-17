@@ -1,1 +1,18 @@
-
+body{
+  background-color:#4A3F3C;
+}
+#header{
+  color:yellow;
+}
+h2{
+  color:white;
+}
+h3{
+  color:white;
+}
+h1{
+  color:white;
+}
+#game{
+  color:lightyellow;
+}
