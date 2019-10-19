@@ -1,5 +1,7 @@
 body{
   background-color:#4A3F3C;
+  background-repeat: space;
+  background-image:url("angellicodigo.github.io/images/icons8-knight-50.png");
   font-family:sans-serif;
   color:white;
 }
@@ -25,4 +27,7 @@ img{
 }
 #back{
   color:grey;
+}
+a{
+  color:white;
 }
