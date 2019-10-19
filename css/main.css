@@ -1,19 +1,11 @@
 body{
   background-color:#4A3F3C;
   font-family:sans-serif;
+  color:white;
 }
 #header{
   color:yellow;
   text-align:center;
-}
-h2{
-  color:white;
-}
-h3{
-  color:white;
-}
-h1{
-  color:white;
 }
 #game{
   text-align:center;
@@ -21,16 +13,6 @@ h1{
 img{
   width:350px;
   height:200px;
-}
-ul{
-  color:white;
-  background-color:;
-}
-a{
-  color:white;
-}
-h4{
-  color:white;
 }
 #knights{
   color:yellow;
