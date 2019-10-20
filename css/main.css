@@ -13,8 +13,8 @@ body{
   text-align:center;
 } 
 img{
-  width:350px;
-  height:210px;
+  width:560px;
+  height:315px;
 }
 #knights{
   color:yellow;
@@ -23,7 +23,7 @@ img{
   text-align:center;
   color:#EDCB96:;
 }
-#info{
+.info{
   color:#5BC0BE;
 }
 #back{
