@@ -1,7 +1,7 @@
 body{
   background-color:#4A3F3C;
   background-repeat: space;
-  background-image:url("images/icons8-knight-50.png");
+  background-image:url("https://github.com/angellicodigo/angellicodigo.github.io/blob/master/images/icons8-knight-50.png?raw=true");
   font-family:sans-serif;
   color:white;
 }
@@ -31,8 +31,9 @@ img{
 a{
   color:white;
 }
-.details:hover{
+.dps{
+  color:#E4572E;
 }
-.moreinfo{
-  color:#2f4f4f;
+.healing{
+  color:pink;
 }
