@@ -20,7 +20,8 @@ img{
   color:yellow;
 }
 #discussion{
-  text-algin:center;
+  text-align:center;
+  color:#EDCB96:;
 }
 #info{
   color:#5BC0BE;
@@ -31,9 +32,24 @@ img{
 a{
   color:white;
 }
+a:hover{
+  background-color:#C4A381;
+}
 .dps{
   color:#E4572E;
 }
 .healing{
   color:pink;
 }
+.magic{
+  color:lightblue;
+}
+.nature{
+  color:#76B041;
+}
+/*ul li{
+  display:nonedad;
+}
+.details:hover{
+  visibility: visible;
+}*/
