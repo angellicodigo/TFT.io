@@ -13,8 +13,8 @@ body{
   text-align:center;
 } 
 img{
-  width:350px;
-  height:250px;
+  width:355px;
+  height:220px;
 }
 #knights{
   color:yellow;
@@ -57,4 +57,7 @@ a:hover{
   display:block;
   width:560px;
   height:315px;
+}
+.title{
+  text-align:center;
 }
